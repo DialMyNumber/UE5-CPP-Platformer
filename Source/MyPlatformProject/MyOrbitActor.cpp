@@ -28,7 +28,6 @@ void AMyOrbitActor::PostInitializeComponents()
 void AMyOrbitActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 void AMyOrbitActor::Tick(float DeltaTime)
